@@ -1,1 +1,1 @@
-# myserty_word
+# Mystery Word
