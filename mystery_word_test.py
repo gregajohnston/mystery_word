@@ -1,16 +1,9 @@
 import unittest
 
-from mystery_word import *
-                            # update_after_guess,
-                            # select_difficulty,
-                            # check_duplicate_guess,
-                            # check_win,
-                            # exceeds_guess_count
+from mystery_word import (update_after_guess, select_difficulty,
+                          check_duplicate_guess, check_win,
+                          exceeds_guess_count)
 
-
-
-#check_win()
-#exceeds_guess_count()
 
 class TestMysteryWord(unittest.TestCase):
 
